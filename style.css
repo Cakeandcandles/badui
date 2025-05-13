@@ -14,8 +14,8 @@ body {
 
 #submit-password {
   position: absolute;
-  left: 196px;
-  top: 67px;
+  left: 200px;
+  top: 335px;
 }
 
 #username-info {
@@ -41,6 +41,7 @@ body {
 
 #submit {
   font-size: 2em;
+  padding: 10px 20px;
   position: absolute;
   left: 35px;
   top: 200px;

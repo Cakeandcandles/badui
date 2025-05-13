@@ -21,3 +21,28 @@ body {
 #username-info {
   text-decoration: underline;
 }
+
+#password-info {
+  text-decoration: underline;
+}
+
+#validation {
+  position: absolute;
+  left: -12em;
+}
+
+#move {
+  position: absolute;
+  top: 240px;
+  
+}
+
+
+
+#submit {
+  font-size: 2em;
+  position: absolute;
+  left: 35px;
+  top: 200px;
+  transition: all 0.3s ease;
+}

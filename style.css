@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+#header {
+  text-align: center;
+}
+
+#submit-name {
+  position: absolute;
+  left: 200px;
+  top: 127px;
+}
+
+#submit-password {
+  position: absolute;
+  left: 196px;
+  top: 67px;
+}
+
+#username-info {
+  text-decoration: underline;
+}
